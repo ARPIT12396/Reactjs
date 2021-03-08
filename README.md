@@ -1,2 +1,2 @@
-# NewYearCountdownTimer
-This countdowntimer count newyear days, minutes, hours and seconds.we are using javaScript to create this countdown timer
+# Food Recipes Project
+This is Food Recipes Project Created by React Js and Axios.Here You Search your Recipe and all Ingradients that uses in food
