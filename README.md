@@ -1,2 +1,2 @@
-# NewYearCountdownTimer
-This countdowntimer count newyear days, minutes, hours and seconds.we are using javaScript to create this countdown timer
+# Burger Buider Project
+This is Burger Buider software. here you can select your food items quantities and cart your wishlist box and purchase.
