@@ -4,9 +4,9 @@ const Header = props => {
   const { search, onInputChange, onSearchClick } = props;
   return (
     <div className="jumbotron">
-      <h1 className="display-1">
+      <h3 className="display-1">
         <i class="material-icons brand-icon">fastfood</i> Food Recipe
-      </h1>
+      </h3>
       <div class="input-group w-50 mx-auto">
         <input
           type="text"
